@@ -125,7 +125,7 @@ When executed:
 ## Installation and Running
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/email-scraper.git
+   git clone https://github.com/cjhooks/email-scraper.git
    cd email-scraper
    ```
 
